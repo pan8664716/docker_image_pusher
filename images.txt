@@ -8,6 +8,7 @@
 #--platform=linux/arm64 xhofe/alist-aria2:v3.36.0
 #--platform=linux/arm64 jc21/nginx-proxy-manager:latest
 #--platform=linux/arm64 jeessy/ddns-go:latest
---platform=linux/arm64 crazymax/jetbrains-license-server
+#--platform=linux/arm64 crazymax/jetbrains-license-server
+--platform=linux/arm64 cmliu/cfnat:latest
 
 
