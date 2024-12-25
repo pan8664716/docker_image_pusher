@@ -9,6 +9,7 @@
 #--platform=linux/arm64 jc21/nginx-proxy-manager:latest
 #--platform=linux/arm64 jeessy/ddns-go:latest
 #--platform=linux/arm64 crazymax/jetbrains-license-server
---platform=linux/arm64 cmliu/cfnat:latest
+#--platform=linux/arm64 cmliu/cfnat:latest
+--platform=linux/arm64 gdy666/lucky:latest
 
 
