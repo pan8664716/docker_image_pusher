@@ -9,5 +9,6 @@
 #jc21/nginx-proxy-manager:latest
 #cmliu/cfnat:latest
 #gdy666/lucky:latest
---platform=linux/arm64 homeassistant/home-assistant:dev
+#--platform=linux/arm64 homeassistant/home-assistant:dev
+--platform=linux/arm64 eceasy/cli-proxy-api:latest
 
