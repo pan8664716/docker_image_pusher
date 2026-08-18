@@ -11,5 +11,6 @@
 #gdy666/lucky:latest
 #--platform=linux/arm64 homeassistant/home-assistant:dev
 #--platform=linux/arm64 eceasy/cli-proxy-api:latest
---platform=linux/arm64 akiralereal/iptv:latest
+#--platform=linux/arm64 akiralereal/iptv:latest
+--platform=linux/arm64 decolua/9router:latest
 
